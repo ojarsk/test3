@@ -1,3 +1,4 @@
 Šājā datnē testēsim izmaiņas
 Šo rindu es rakstu, kā trešo
 Šī ir ceturtā rinda
+Tagad rakstu piekto rindu
